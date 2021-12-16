@@ -9,6 +9,8 @@
     "categoria",
     "cerrar",
     "columnas",
+    "comida",
+    "Comida",
     "contenedor",
     "contenido",
     "descripcion",
@@ -24,12 +26,23 @@
     "listado",
     "negativo",
     "nombre",
+    "Nueva",
+    "obligatorio",
+    "ocio",
+    "Ocio",
     "ocultar",
+    "opciones",
     "oscuro",
     "presupuesto",
     "Progressbar",
+    "salud",
+    "Salud",
     "sombra",
+    "suscripciones",
+    "Suscripciones",
     "swipeable",
-    "tipo"
+    "tipo",
+    "Todos",
+    "Varios"
   ]
 }
